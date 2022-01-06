@@ -25,3 +25,16 @@ h1{
     padding: 10px 20px;
     border-radius: 5px;
 }
+.cards{
+    display: flex;
+    width: 80%;
+}
+.mission img{
+    width: 40%;
+}
+.vision img{
+    width: 40%;
+}
+.goal img{
+    width: 40%;
+}
