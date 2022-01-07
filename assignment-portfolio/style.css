@@ -1,4 +1,4 @@
-.mission-2022{
+.first-section{
     display: flex;
     padding: 5%;
 }
@@ -25,16 +25,60 @@ h1{
     padding: 10px 20px;
     border-radius: 5px;
 }
+.mission-banner {
+    text-align: center;
+    font-size: 45px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+span{
+   color: #355f83; 
+}
 .cards{
     display: flex;
-    width: 80%;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mission{
+    background-color: #e8fcff;
+    margin-left: 10%;
+    margin-right: 5%;
+    border-radius: 20px;
+    padding: 3%;
 }
 .mission img{
     width: 40%;
 }
+.vision{
+    background-color: #ffe6e6;
+    margin-right: 5%;
+    border-radius: 20px;
+    padding: 3%;
+}
 .vision img{
     width: 40%;
 }
+.goal{
+    background-color: #fff5da;
+    margin-right: 10%;
+    border-radius: 20px;
+    padding: 3%;
+}
 .goal img{
     width: 40%;
+}
+.third-section{
+    display: flex;
+    width: 100%;
+    margin-left: 10%;
+    padding: ;
+}
+.third-section img{
+    width:50%;
+}
+.third-and-forth-header{
+    font-size: 40px;
+}
+.first-documentation{
+    width: 50%;
 }
